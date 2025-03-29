@@ -1,7 +1,7 @@
 function Experience() {
   return (
     <div className="flex flex-col gap-2">
-      <h2 className="text-lg font-semibold text-slate-800">Experience</h2>
+      <h2 className="text-lg font-semibold">Experience</h2>
       <div className="flex flex-col gap-2">
         <h3 className="font-semibold text-gray-500">
           Senior Developer / Technical Lead{" "}

@@ -1,7 +1,7 @@
 function Summary() {
   return (
     <div className="flex flex-col gap-2 ">
-      <h2 className="text-lg font-semibold text-slate-800">Hello 👋</h2>
+      <h2 className="text-lg font-semibold">Hello 👋</h2>
       <p>
         I'm Igor and I am an engineer with a passion for sovling problems with
         code. For more than 10 years I've been building web applications and

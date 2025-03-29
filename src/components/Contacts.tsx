@@ -1,6 +1,6 @@
 function Contacts() {
   return (
-    <ul className="text-sm font-light text-slate-700">
+    <ul className="text-sm font-light">
       <li>
         email:{" "}
         <a
