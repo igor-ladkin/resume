@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@page {
+  margin: 0;
+  size: A4;
+
+  @top-center {
+    content: none;
+  }
+
+  @bottom-center {
+    content: none;
+  }
+}
