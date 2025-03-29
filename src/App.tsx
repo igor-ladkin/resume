@@ -7,8 +7,8 @@ import Summary from "./components/Summary";
 function App() {
   return (
     <div className="bg-gray-300/70 flex flex-col justify-center items-center w-[100vw] h-[100vh] print:bg-white print:p-0 print:w-[794px] print:h-[1123px] print:shadow-none">
-      <div className="flex flex-col gap-3 w-[794px] h-[1123px] drop-shadow-lg bg-white print:shadow-none p-10 text-slate-800">
-        <header className="flex flex-row justify-between">
+      <div className="flex flex-col gap-4 w-[794px] h-[1123px] drop-shadow-lg bg-white print:shadow-none p-10 text-slate-800">
+        <header className="flex flex-row items-center justify-between">
           <h1 className="text-5xl font-bold">
             Igor <br />
             Ladkin
