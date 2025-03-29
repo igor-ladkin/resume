@@ -1,4 +1,5 @@
 import Contacts from "./components/Contacts";
+import Education from "./components/Education";
 import Experience from "./components/Experience";
 import Summary from "./components/Summary";
 
@@ -16,6 +17,7 @@ function App() {
         <main className="flex flex-col gap-4 text-sm font-light text-slate-700">
           <Summary />
           <Experience />
+          <Education />
         </main>
       </div>
     </div>
