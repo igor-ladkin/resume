@@ -3,16 +3,16 @@ function Experience() {
     <div className="flex flex-col gap-2">
       <h2 className="text-lg font-semibold">Experience</h2>
       <div className="flex flex-col gap-2">
-        <h3 className="grid grid-cols-[35%_30%_35%] font-semibold text-gray-500">
+        <h3 className="grid grid-cols-1 md:grid-cols-[35%_30%_35%] print:grid-cols-[35%_30%_35%] font-semibold text-gray-500">
           Senior Developer / Technical Lead
           <a
             href="https://wellfound.com"
-            className="font-bold text-blue-500 underline place-self-center"
+            className="font-bold text-blue-500 underline md:place-self-center print:place-self-center"
             target="_blank"
           >
             @ Wellfound / AngelList
           </a>
-          <span className="font-light text-gray-500 place-self-end">
+          <span className="font-light text-gray-500 md:place-self-end print:place-self-end">
             November 2020 — Present
           </span>
         </h3>
@@ -36,16 +36,16 @@ function Experience() {
           </li>
         </ul>
 
-        <h3 className="grid grid-cols-[35%_30%_35%] font-semibold text-gray-500">
+        <h3 className="grid grid-cols-1 md:grid-cols-[35%_30%_35%] print:grid-cols-[35%_30%_35%] font-semibold text-gray-500">
           Senior Backend Developer
           <a
             href="https://motiontools.com"
-            className="font-bold text-blue-500 underline place-self-center"
+            className="font-bold text-blue-500 underline md:place-self-center print:place-self-center"
             target="_blank"
           >
             @ MotionTools / M-Tribes
           </a>
-          <span className="font-light text-gray-500 place-self-end">
+          <span className="font-light text-gray-500 md:place-self-end print:place-self-end">
             June 2019 — November 2020
           </span>
         </h3>
@@ -75,16 +75,16 @@ function Experience() {
           </li>
         </ul>
 
-        <h3 className="grid grid-cols-[35%_30%_35%] font-semibold text-gray-500">
+        <h3 className="grid grid-cols-1 md:grid-cols-[35%_30%_35%] print:grid-cols-[35%_30%_35%] font-semibold text-gray-500">
           Senior Backend Developer
           <a
             href="https://wundermobility.com"
-            className="font-bold text-blue-500 underline place-self-center"
+            className="font-bold text-blue-500 underline md:place-self-center print:place-self-center"
             target="_blank"
           >
             @ Wunder Mobility
           </a>
-          <span className="font-light text-gray-500 place-self-end">
+          <span className="font-light text-gray-500 md:place-self-end print:place-self-end">
             November 2018 — June 2019
           </span>
         </h3>
