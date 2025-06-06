@@ -19,7 +19,7 @@ function Experience() {
         <ul className="list-disc list-inside">
           <li>
             Architected and implemented a high-performance candidate profile
-            service with sophisticated ElasticSearch capabilities, enabling
+            service with sophisticated Elasticsearch capabilities, enabling
             precise talent matching through seamless integration with multiple
             LLM systems and advanced caching strategies.
           </li>
@@ -95,7 +95,7 @@ function Experience() {
             experience.
           </li>
           <li>
-            Optimized ElasticSearch query performance through refined index
+            Optimized Elasticsearch query performance through refined index
             schemas and scoring algorithms, significantly enhancing the accuracy
             of driver-passenger matching.
           </li>
