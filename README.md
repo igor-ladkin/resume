@@ -1,6 +1,6 @@
 # Personal Resume
 
-This is my personal resume. It's a simple HTML page that I can print to PDF, so that I don't have to struggle with layout and formatting in Pages or Google Docs.
+This is my personal resume built with **React** and **Tailwind CSS**. The project compiles down to a printable HTML page so that I don't have to struggle with layout and formatting in Pages or Google Docs.
 
 ## Development
 
@@ -14,3 +14,5 @@ npm run dev
 ```bash
 npm run build
 ```
+
+You can run `npm run preview` to verify the production build locally.
